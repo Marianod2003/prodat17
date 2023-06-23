@@ -67,7 +67,7 @@ Este proyecto se distribuye bajo la **licencia MIT**. Consulta el archivo **LICE
 - Mariano Delfino: marianod2003@hotmail.com
 - Beverly Gonzalez Casanova: beverly.jlgc@gmail.com
 - Juan Cortez Zamar: juancorzamar@gmail.com
-- Miguel Pacori: query,ecco@gmail.com
+- Miguel Pacori: query.ecco@gmail.com
 - Umido Marco: marcoumido@gmail.com
 
 ¡Gracias por tu interés en nuestro proyecto!
