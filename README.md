@@ -35,8 +35,8 @@ Para ejecutar el proyecto en tu entorno local, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina local.
 2. Asegúrate de tener instalado Python en tu sistema.
-3. Instala las bibliotecas necesarias (numpy, pandas, matplotlib) ejecutando el siguiente comando en tu terminal:
-pip install numpy pandas matplotlib
+3. Instala las bibliotecas necesarias (pandas, matplotlib, seaborn, pycountry, plotly) ejecutando el siguiente comando en tu terminal:
+pip install pandas matplotlib seaborn pycountry plotly
 4. Abre un terminal en el directorio raíz del proyecto.
 5. Ejecuta el archivo principal del proyecto utilizando el siguiente comando:
 python main.py
