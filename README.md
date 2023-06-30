@@ -1,7 +1,7 @@
 # __Proyecto de Procesamiento de Datos__
 ## __Grupo - prodat17__
 
-Este es un proyecto desarrollado para la materia de Procesamiento de Datos. Consiste en el análisis de un archivo CSV que contiene datos de la población mundial de cada país desde 1801 hasta 2019. El objetivo principal es utilizar las bibliotecas numpy, matplotlib y pandas de Python para realizar diversas operaciones y visualizaciones sobre estos datos.
+Este es un proyecto desarrollado para la materia de Procesamiento de Datos. Consiste en el análisis de un archivo CSV que contiene datos de la población mundial de cada país desde 1801 hasta 2019. El objetivo principal es utilizar las bibliotecas pandas, matplotlib, seaborn, pycountry, plotly de Python para realizar diversas operaciones y visualizaciones sobre estos datos.
 
 ## **Integrantes del equipo**
 
